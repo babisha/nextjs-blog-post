@@ -1,5 +1,7 @@
 import Image from "next/image";
 
-export default function Home() {
-  return <div>Home</div>;
+function Home() {
+  return <div className="h-[20px] text-red-300">Home</div>;
 }
+
+export default Home;
