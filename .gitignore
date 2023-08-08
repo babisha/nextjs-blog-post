@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+api/page.tsx
 # testing
 /coverage
 

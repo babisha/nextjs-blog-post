@@ -1,4 +1,4 @@
-import FetchAPI from "../fetch/page";
+import FetchAPI from "../../lib/api/page";
 
 function BlogPosts() {
   return (
